@@ -1,5 +1,5 @@
 # kafka-streams-word-count
-
+![image](https://user-images.githubusercontent.com/59700293/182012276-333b4f85-a9c9-4655-8d03-78bca9515ba9.png)
 ## Requirements
 - Docker: We will use it to start Kafka and create the topics
 - Java 17
