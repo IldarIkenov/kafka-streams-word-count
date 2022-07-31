@@ -1,9 +1,9 @@
 # kafka-streams-word-count
 
 ## Requirements
-Docker: We will use it to start Kafka and create the topics
-Java 17
-An IDE like Intellij IDEA
+- Docker: We will use it to start Kafka and create the topics
+- Java 17
+- An IDE like Intellij IDEA
 
 ```
 docker compose -f ./docker-compose.yml up
